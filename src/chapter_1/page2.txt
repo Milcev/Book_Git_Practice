@@ -1,7 +1,0 @@
-This is page 2 of chapter 1
-
-our second file
-
-now we have git enabled
-
-add some text
